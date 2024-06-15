@@ -19,6 +19,7 @@ public class Q10_ColumnSum {
                 arr[i][j]= sc.nextInt();
             }
         }
+        
         for(int j=0; j<c; j++){
             System.out.println("The sum of elements of column " + j + " is: " + sumColumn(arr, j));
         }
