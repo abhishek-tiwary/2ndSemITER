@@ -12,6 +12,7 @@ public class Q09_MajorDiagonalSum {
         }
         return sum;
     }
+    
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter the rows and columns of your array (rows must be equal to columns)");
