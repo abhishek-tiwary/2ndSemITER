@@ -18,7 +18,6 @@ class Complex{
         imag= c1.imag+ c2.imag;
         return this;
     }
-
 }
 
 public class Q2_ComplexSum {
